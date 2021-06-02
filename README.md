@@ -17,4 +17,4 @@ After purchasing an [Apple Silicon](https://www.apple.com/newsroom/2020/06/apple
 - [Hyper](https://hyper.is/)&dagger;
 - [Atom](https://atom.io/)&dagger;
  
-&dagger; At the time of writing this, I decided to not run intel-based apps via Rosetta on the new Apple Silicon. I will likely switch to Hyper, and back to atom, once these [Electron](https://www.electronjs.org/)-based apps are updated.
+&dagger; _At the time of writing this, I decided to not run intel-based apps via Rosetta on the new Apple Silicon. I will likely switch to Hyper, and back to atom, once these [Electron](https://www.electronjs.org/)-based apps are updated._
