@@ -6,8 +6,13 @@ After purchasing an [Apple Silicon](https://www.apple.com/newsroom/2020/06/apple
 
 ## Additional resources
 
-- [zsh Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
-- [zsh Prompt expansion](https://zsh.sourceforge.io/Doc/Release/Prompt-Expansion.html)
+### zsh
+- [Themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
+- [Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
+- [Prompt colors](https://en.wikipedia.org/wiki/ANSI_escape_code)
+- [Prompt expansion](https://zsh.sourceforge.io/Doc/Release/Prompt-Expansion.html
+
+### Other
 - [iTerm2](https://iterm2.com/)
 - [Hyper](https://hyper.is/)&dagger;
 - [Atom](https://atom.io/)&dagger;
