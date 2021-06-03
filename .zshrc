@@ -112,6 +112,7 @@ alias tree="tree -Csu"     	    # alternative to 'recursive ls'; Must have tree 
 alias mkdir="mkdir -pv" 	# mkdir, create parent
 alias cls="clear"
 alias which="type -a"
+alias dev="cd /Library/WebServer/Documents/ && ll"
 
 alias rm="rm -i"
 alias cp="cp -i"
