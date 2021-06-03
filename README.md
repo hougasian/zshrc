@@ -8,10 +8,10 @@ After purchasing an [Apple Silicon](https://www.apple.com/newsroom/2020/06/apple
 
 If you pull using wget or curl, rememeber to change the user: https://github.com/hougasian/zshrc/blob/main/.zshrc#L5
 ```
-curl -LJO https://github.com/hougasian/zshrc/blob/main/.zshrc
+curl -LJO https://raw.githubusercontent.com/hougasian/zshrc/main/.zshrc
 ```
 ```
-wget --no-check-certificate --content-disposition https://github.com/hougasian/zshrc/blob/main/.zshrc
+wget --no-check-certificate --content-disposition https://raw.githubusercontent.com/hougasian/zshrc/main/.zshrc
 ```
 
 ## Additional resources
