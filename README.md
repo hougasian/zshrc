@@ -6,7 +6,6 @@ After purchasing an [Apple Silicon](https://www.apple.com/newsroom/2020/06/apple
 
 ## wget/curl
 
-If you pull using wget or curl, rememeber to change the user: https://github.com/hougasian/zshrc/blob/main/.zshrc#L5
 ```
 curl -LJO https://raw.githubusercontent.com/hougasian/zshrc/main/.zshrc
 ```
