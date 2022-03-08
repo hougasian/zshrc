@@ -139,6 +139,8 @@ zstyle ':vcs_info:git:*' formats '→ %b'
 
 # autoload -U colors && colors
 
+# Removes percent bug https://github.com/vercel/hyper/issues/2144#issuecomment-326741620
+unsetopt PROMPT_SP 
 # Custom prompt
 # Prompt codes: https://zsh.sourceforge.io/Doc/Release/Prompt-Expansion.html
 NEWLINE=$'\n'
