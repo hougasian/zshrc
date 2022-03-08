@@ -4,6 +4,8 @@ macOS 10.15 Catalina introduced zsh as the new default shell. The MacBook Pro I 
 
 After purchasing an [Apple Silicon](https://www.apple.com/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/) MBA, i realized that the rc config file just isn't there 😔 (it's here 😜)
 
+> UPDATE: New M1 MBP running macOS Monterey 12.2.1 no longer needs the template file above. Try just using the `curl` or `wget` below first. 
+
 ## wget/curl
 
 ```
