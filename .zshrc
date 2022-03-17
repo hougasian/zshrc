@@ -72,7 +72,7 @@ ZSH_THEME="af-magic"
 # https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 plugins=(branch colorize git osx themes zsh_reload)
 
-source $ZSH/oh-my-zsh.sh
+# source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
